@@ -1,0 +1,9 @@
+{
+	"name": "adf-engd-st2025-gemma-001",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b68dc8e5-8c32-4922-a2f1-6d3180f01b29",
+		"tenantId": "cc7df247-60ce-4a0f-9d75-704cf60efc64"
+	}
+}
